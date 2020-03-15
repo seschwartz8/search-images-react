@@ -5,7 +5,7 @@ import ImageList from './ImageList';
 import '../css/App.css';
 
 const url = `https://api.unsplash.com/search/photos`;
-const API_KEY = 'GET YOUR OWN FROM THE UNSPLASH WEBSITE';
+const API_KEY = 'ADD THIS YOURSELF FROM THEIR WEBSITE';
 
 class App extends Component {
   state = {
